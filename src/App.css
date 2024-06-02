@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #58ffcd;
+  background: #0c6098;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .todo-btn {
-  background: #8758ff;
+  background: #326172;
   color: #fff;
   border: none;
   padding: 0.55rem;
